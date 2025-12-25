@@ -1,0 +1,5 @@
+2025-12-26 01:10:01 INFO service=dcim msg="Collector started"
+2025-12-26 01:11:15 WARNING service=snmp msg="High latency detected on switch SW-01"
+2025-12-26 01:12:44 ERROR service=ping msg="Host 10.10.10.21 unreachable"
+2025-12-26 01:13:09 CRITICAL service=power msg="UPS on bypass - immediate attention required"
+2025-12-26 01:14:30 INFO service=dcim msg="Ticket created #INC-1042"
