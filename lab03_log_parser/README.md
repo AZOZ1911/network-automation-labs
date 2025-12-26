@@ -1,4 +1,5 @@
-### Examples
-Minimum severity WARNING and generate both TXT + JSON:
+## How to Run
+
+Basic run using the sample log file:
 ```bash
-python log_parser.py --file sample.log --min WARNING --out report.txt --json report.json
+python log_parser.py --file sample.log
